@@ -1,0 +1,10 @@
+{
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.linkedEditing": true,
+  "editor.acceptSuggestionOnCommitCharacter": false,
+  "editor.acceptSuggestionOnEnter": "off",
+  "editor.tabCompletion": "on"
+}
