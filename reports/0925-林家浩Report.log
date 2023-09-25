@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.3.13)  25 SEP 2023 17:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.3.13)  25 SEP 2023 17:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1271,22 +1271,18 @@ l.96 ...��架的阅读笔记见图\ref{fig:笔记}
                                                   。
 I'm ignoring this, since I wasn't doing a \csname.
 
-
-/Users/alam/giec/CHS/reports/0925-林家浩Report.tex:100: LaTeX Error: Unknown graphics extension: .svg.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.100 ...hics[width=\textwidth]{image/markmap.svg}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+<image/Markmap.pdf, id=67, 166.22401pt x 461.87758pt>
+File: image/Markmap.pdf Graphic file (type pdf)
+<use image/Markmap.pdf>
+Package pdftex.def Info: image/Markmap.pdf  used on input line 100.
+(pdftex.def)             Requested size: 245.14024pt x 681.15898pt.
 [1
 
 
-{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./0925-林家浩Report.aux
+{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \vbox (26.44144pt too high) has occurred while \output is active []
+
+ [2 <./image/Markmap.pdf>] [3] (./0925-林家浩Report.aux
 ./0925-林家浩Report.aux:21: Missing \endcsname inserted.
 <to be read again> 
                    \global 
@@ -1423,8 +1419,8 @@ Package rerunfilecheck Info: Checksums for `0925-林家浩Report.out':
 (rerunfilecheck)             Before: <no file>
 (rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
 
-Overfull \hbox (60.2033pt too wide) in paragraph at lines 21--105
-[] \C70/rm/m/n/10.53937/78 ^^T \C70/rm/m/n/10.53937/7a v \C70/rm/m/n/10.53937/89 � \C70/rm/m/n/10.53937/5e �\C70/rm/m/n/10.53937/78 C70/rm/m/n/78/20/h   \C70/rm/m/n/10.53937/67 P \C70/rm/m/n/10.53937/65 � \C70/rm/m/n/10.53937/5b � \C70/rm/m/n/10.53937/6b �\C70/rm/m/n/10.53937/67 C70/rm/m/n/67/80/h
+Overfull \hbox (60.2033pt too wide) in paragraph at lines 21--110
+[]\C70/rm/m/n/10.53937/78 ^^T \C70/rm/m/n/10.53937/7a v \C70/rm/m/n/10.53937/89 � \C70/rm/m/n/10.53937/5e �\C70/rm/m/n/10.53937/78 C70/rm/m/n/78/20/h   \C70/rm/m/n/10.53937/67 P \C70/rm/m/n/10.53937/65 � \C70/rm/m/n/10.53937/5b � \C70/rm/m/n/10.53937/6b �\C70/rm/m/n/10.53937/67 C70/rm/m/n/67/80/h
  []
 
  )
@@ -1435,13 +1431,13 @@ Overfull \hbox (60.2033pt too wide) in paragraph at lines 21--105
 (\end occurred when \ifx on line 85 was incomplete)
 (\end occurred when \ifx on line 85 was incomplete) 
 Here is how much of TeX's memory you used:
- 31283 strings out of 478268
- 622811 string characters out of 5846347
- 849632 words of memory out of 5000000
- 48771 multiletter control sequences out of 15000+600000
- 491808 words of font info for 108 fonts, out of 8000000 for 9000
+ 31308 strings out of 478268
+ 622874 string characters out of 5846347
+ 848632 words of memory out of 5000000
+ 48782 multiletter control sequences out of 15000+600000
+ 492618 words of font info for 111 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 103i,6n,105p,755b,768s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 103i,7n,105p,755b,769s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-!pdfTeX error: pdflatex (file unisong68): Font unisong68 at 632 not found
+!pdfTeX error: pdflatex (file unihei4e): Font unihei4e at 903 not found
  ==> Fatal error occurred, no output PDF file produced!
