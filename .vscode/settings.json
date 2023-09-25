@@ -6,5 +6,9 @@
   "editor.linkedEditing": true,
   "editor.acceptSuggestionOnCommitCharacter": false,
   "editor.acceptSuggestionOnEnter": "off",
-  "editor.tabCompletion": "on"
+  "editor.tabCompletion": "on",
+  "search-online.search-engine": "Bing",
+  "files.autoSave": "onWindowChange",
+  "diffEditor.wordWrap": "on",
+  "editor.wordWrap": "on"
 }
