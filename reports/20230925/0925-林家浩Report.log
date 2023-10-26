@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.3.13)  25 OCT 2023 23:39
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.3.13)  26 OCT 2023 01:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/alam/giec/CHS/reports/20230925/0925-林家浩Report.tex
-(/Users/alam/giec/CHS/reports/20230925/0925-林家浩Report.tex
+**0925-林家浩Report
+(./0925-林家浩Report.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-24> (/usr/local/texlive/2022/texmf-dist/tex/latex/base/report.cls
 Document Class: report 2021/10/04 v1.4n Standard LaTeX document class
@@ -799,7 +799,8 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \c@@todonotes@numberoftodonotes=\count366
 )
 Package translations Info: No language package found. I am going to use `english' as default language. on input line 70.
- (./0925-林家浩Report.aux)
+
+No file 0925-林家浩Report.aux.
 \openout1 = `0925-林家浩Report.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 70.
@@ -878,7 +879,6 @@ LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 70.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 70.
-
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
@@ -927,36 +927,58 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 70.
 LaTeX Info: Redefining \pageref on input line 70.
 LaTeX Info: Redefining \nameref on input line 70.
- (./0925-林家浩Report.out) (./0925-林家浩Report.out)
 \@outlinefile=\write4
 \openout4 = `0925-林家浩Report.out'.
+
+
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: subfigure package is loaded.
 Package caption Info: End \AtBeginDocument code.
- (/usr/local/texlive/2022/texmf-dist/tex/latex/translations/translations-basic-dictionary-english.trsl
+(/usr/local/texlive/2022/texmf-dist/tex/latex/translations/translations-basic-dictionary-english.trsl
 File: translations-basic-dictionary-english.trsl (english translation file `translations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 70.
+
+
+LaTeX Warning: Reference `fig:研究角度' on page 1 undefined on input line 78.
+
+
+LaTeX Warning: Reference `fig:材料对比' on page 1 undefined on input line 80.
+
 File: image/CHS研究角度和方法.pdf Graphic file (type pdf)
 <use image/CHS研究角度和方法.pdf>
 File: image/性能比较.pdf Graphic file (type pdf)
 <use image/性能比较.pdf>
- [1
+[1
 
 
 ] [2] (./0925-林家浩Report.aux)
-Package rerunfilecheck Info: File `0925-林家浩Report.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `0925-林家浩Report.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `0925-林家浩Report.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 32645 strings out of 476179
- 724512 string characters out of 5809544
- 994264 words of memory out of 5000000
- 52887 multiletter control sequences out of 15000+600000
- 471824 words of font info for 51 fonts, out of 8000000 for 9000
+ 32640 strings out of 476179
+ 724340 string characters out of 5809544
+ 993945 words of memory out of 5000000
+ 52888 multiletter control sequences out of 15000+600000
+ 471832 words of font info for 52 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 103i,6n,105p,505b,758s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 103i,6n,105p,463b,758s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on 0925-林家浩Report.xdv (2 pages, 20060 bytes).
+Output written on 0925-林家浩Report.pdf (2 pages).
